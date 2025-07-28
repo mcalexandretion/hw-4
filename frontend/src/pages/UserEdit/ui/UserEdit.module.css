@@ -1,0 +1,26 @@
+.container {
+  max-width: 600px;
+  padding: 1rem;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.checkbox {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.error {
+  color: red;
+  font-size: 0.8rem;
+}
+label {
+    color:rgb(30, 48, 210);
+    
+}
+input {
+    height: 3em;
+    font-size: 18px;
+}
