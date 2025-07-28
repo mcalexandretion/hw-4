@@ -1,0 +1,1 @@
+export { UserEditPage } from './ui/UserEdit';
