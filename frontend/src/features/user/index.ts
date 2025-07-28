@@ -1,0 +1,1 @@
+export { fetchUsers, createUser, updateUser, deleteUser } from './model/api';
